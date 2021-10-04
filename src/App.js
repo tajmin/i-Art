@@ -6,6 +6,7 @@ import PageNotFound from './components/PageNotFound/PageNotFound';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './components/Home/Home';
 import Service from './components/Service/Service';
+import About from './components/About/About';
 
 function App() {
   return (
@@ -18,6 +19,9 @@ function App() {
           </Route>
           <Route path="/home">
             <Home></Home>
+          </Route>
+          <Route path="/about">
+            <About></About>
           </Route>
           <Route path="/services">
             <Service></Service>

@@ -18,7 +18,7 @@ const HomeService = () => {
                 }
             </div>
             <div className="relative py-12">
-                <div className="lg:absolute lg:bottom-0 lg:right-0 bg-black bg-opacity-50 py-4 mr-4 mb-8">
+                <div className="lg:absolute lg:bottom-0 lg:right-0 bg-black bg-opacity-50 py-4 mr-4 mb-8 rounded-sm">
                     <NavLink to="/services" className="py-8 px-8 text-xl text-white hover:text-black">See More</NavLink>
                 </div>
             </div>
