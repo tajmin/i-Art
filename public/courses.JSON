@@ -30,6 +30,21 @@
     ]
   },
   {
+    "_id": "615a88ac39eca304113ad377",
+    "index": 3,
+    "isActive": true,
+    "price": "$99",
+    "thumb": "https://images.unsplash.com/photo-1522410818928-5522dacd5066?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+    "title": "Painting",
+    "about": "The Ultimate Digital Painting Course will show you how to create advanced art that will stand up as professional work. This course will enhance or give you skills in the world of Digital Painting - or your money back",
+    "nextSession": "2021-11-04",
+    "tags": [
+      "fugiat",
+      "incididunt",
+      "consectetur"
+    ]
+  },
+  {
     "_id": "615a88acd2d4cd6f7eba3752",
     "index": 2,
     "isActive": false,
@@ -46,7 +61,7 @@
   },
   {
     "_id": "615a88acd6077167f0afbcf7",
-    "index": 3,
+    "index": 4,
     "isActive": false,
     "price": "$199",
     "thumb": "https://images.unsplash.com/photo-1486916856992-e4db22c8df33?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80",
@@ -57,21 +72,6 @@
       "in",
       "tempor",
       "adipisicing"
-    ]
-  },
-  {
-    "_id": "615a88ac39eca304113ad377",
-    "index": 4,
-    "isActive": true,
-    "price": "$99",
-    "thumb": "https://images.unsplash.com/photo-1522410818928-5522dacd5066?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
-    "title": "Painting",
-    "about": "The Ultimate Digital Painting Course will show you how to create advanced art that will stand up as professional work. This course will enhance or give you skills in the world of Digital Painting - or your money back",
-    "nextSession": "2021-11-04",
-    "tags": [
-      "fugiat",
-      "incididunt",
-      "consectetur"
     ]
   },
   {
