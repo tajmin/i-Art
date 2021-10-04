@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "615a88ac3538dfebd2dcd2b4",
+    "index": 0,
+    "isActive": true,
+    "price": "$179",
+    "thumb": "https://images.unsplash.com/photo-1552596829-e26a4bcb0287?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1112&q=80",
+    "title": "Sculpture",
+    "about": "Inspired by natural forms, Stéphanie Kilgast’s artwork is an ode to nature and its current biodiversity. Plants, mushrooms, insects and other animals encounter in a vibrant swirl of colors under her brush or sculpting tools.",
+    "nextSession": "2021-11-27",
+    "tags": [
+      "exercitation",
+      "nulla",
+      "voluptate"
+    ]
+  },
+  {
+    "_id": "245a88acffa380e8e37cd2bc8",
+    "index": 1,
+    "isActive": true,
+    "price": "$599",
+    "thumb": "https://images.unsplash.com/photo-1617516202907-ff75846e6667?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1029&q=80",
+    "title": "Architecture",
+    "about": "Architecture engages a culture’s deepest social values and expresses them in material, aesthetic form. This course will teach you how to understand architecture as both cultural expression and technical achievement. Vivid analyses of exemplary buildings, and hands-on exercises in drawing and modeling, will bring you closer to the work of architects and historians.",
+    "nextSession": "2021-12-22",
+    "tags": [
+      "voluptate",
+      "pariatur",
+      "deserunt"
+    ]
+  },
+  {
+    "_id": "615a88acd2d4cd6f7eba3752",
+    "index": 2,
+    "isActive": false,
+    "price": "$549",
+    "thumb": "https://images.unsplash.com/photo-1611879531844-24b7ddf40b26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Ballet",
+    "about": "Ballet is  characterized by elegance, ethereal motion and hard work. It develops  special muscles, employs the stretching techniques of yoga, and develops  coordination to an exceptional extent. Through a system of techniques, we help you to get  closer to yourself.",
+    "nextSession": "2021-10-18",
+    "tags": [
+      "consectetur",
+      "anim",
+      "officia"
+    ]
+  },
+  {
+    "_id": "615a88acd6077167f0afbcf7",
+    "index": 3,
+    "isActive": false,
+    "price": "$199",
+    "thumb": "https://images.unsplash.com/photo-1486916856992-e4db22c8df33?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80",
+    "title": "Photography",
+    "about": "This online photography course will teach you how to take amazing images and even sell them, whether you use a smartphone, mirrorless or DSLR camera.This photography course is designed to teach you the ins and outs of photography, even if you have little to no experience with it.",
+    "nextSession": "2021-12-31",
+    "tags": [
+      "in",
+      "tempor",
+      "adipisicing"
+    ]
+  },
+  {
+    "_id": "615a88ac39eca304113ad377",
+    "index": 4,
+    "isActive": true,
+    "price": "$99",
+    "thumb": "https://images.unsplash.com/photo-1522410818928-5522dacd5066?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+    "title": "Painting",
+    "about": "The Ultimate Digital Painting Course will show you how to create advanced art that will stand up as professional work. This course will enhance or give you skills in the world of Digital Painting - or your money back",
+    "nextSession": "2021-11-04",
+    "tags": [
+      "fugiat",
+      "incididunt",
+      "consectetur"
+    ]
+  },
+  {
+    "_id": "615a88ace28b4d05fe658229",
+    "index": 5,
+    "isActive": false,
+    "price": "$336",
+    "thumb": "https://images.unsplash.com/photo-1618221381711-42ca8ab6e908?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1932&q=80",
+    "title": "Interior Design",
+    "about": "We have crafted our course where we will impart quality training on the technical sides of the designing. Your design sense and our training together will turn you into an Interior & Exterior designer.",
+    "nextSession": "2021-12-13",
+    "tags": [
+      "quis",
+      "eiusmod",
+      "duis"
+    ]
+  },
+  {
+    "_id": "615a88acaa380e8d37cd2bc8",
+    "index": 6,
+    "isActive": true,
+    "price": "$85",
+    "thumb": "https://images.unsplash.com/photo-1607384070812-0965d8827f6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1121&q=80",
+    "title": "Pottery",
+    "about": "Ceramics are having a moment, and the beauty of the craft raises so many fascinating questions about science, design, and everyday objects. How do you work with clay? How do you glaze your piece? How do you walk the line of beauty and function?",
+    "nextSession": "2021-12-22",
+    "tags": [
+      "voluptate",
+      "pariatur",
+      "deserunt"
+    ]
+  },
+  {
+    "_id": "615a88ace69d7e10290f2d0c",
+    "index": 7,
+    "isActive": false,
+    "price": "$111",
+    "thumb": "https://images.unsplash.com/photo-1628962691167-27b7db9997e0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+    "title": "Calligraphy",
+    "about": "Calligraphy is an artform that features major cultural and stylistic differences. Whether you’re interested in Japanese, Arabic, or Gothic styles, or the fundamentals of drawing different cases, i-Art has a course for you.",
+    "nextSession": "2021-11-28",
+    "tags": [
+      "ullamco",
+      "sint",
+      "incididunt"
+    ]
+  }
+]
