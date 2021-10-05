@@ -2,7 +2,7 @@
 
 ## i-Art is an educational website service with focus on arts and crafts. 
 
-See live here: [i-Art on Netlify] (https://objective-boyd-5a37f3.netlify.app/)
+See live here: [i-Art on Netlify](https://objective-boyd-5a37f3.netlify.app/)
 
 This Single Page Application (SPA) is built on Create-React-App. This also includes:
 

@@ -1,4 +1,5 @@
 import React from 'react';
+import img from '../../images/contact.jpg'
 
 
 const HeroSection = () => {
@@ -10,7 +11,7 @@ const HeroSection = () => {
                 <p className="text-xl text-gray-600 ">The biggest online <span className="text-red-600 pr-1 italic"> art school</span>to find and nourish <br />your hidden talents.</p>
             </div>
             <div>
-                <img src="https://images.unsplash.com/photo-1551443857-ea6cee968159?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1102&q=80" alt="" />
+                <img className="" src={img} alt="" />
             </div>
 
         </div>
